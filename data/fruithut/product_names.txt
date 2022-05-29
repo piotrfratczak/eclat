@@ -1,0 +1,1266 @@
+@CONVERTED_FROM_TEXT
+@ITEM=9188=Rampe Leaves Dried 50g
+@ITEM=9189=Basil Seed 100g(casa casa)
+@ITEM=9182=Bread Crumbs 500g
+@ITEM=1220=artichokes baby
+@ITEM=9183=Mangal Chicken Masala 100g
+@ITEM=9180=Maldive Fish chips 100g
+@ITEM=9181=Magi coconut Powder 1kg
+@ITEM=9186=Pepper Kibbled 100g
+@ITEM=9187=Mustard Seed Brown 250g
+@ITEM=9184=Paprika Hot 100g
+@ITEM=9185=Pepper Corns Black 100g
+@ITEM=1217=Hungarian Capsicum
+@ITEM=1216=Choy sum 2 for 2.00
+@ITEM=1215=Salad Onion
+@ITEM=1214=Asparagus 2 for $3
+@ITEM=1213=Brown Onion 1Kg
+@ITEM=1212=Pandan Leaves
+@ITEM=1211=Slim Leeks 3 for $ 1
+@ITEM=1210=Purple Dutch Carrots
+@ITEM=1219=Spring Onion 2 for
+@ITEM=1218=Purple Striped Eggplant
+@ITEM=9199=Derana woodapple cream cream 565g
+@ITEM=9193=Turmeric Powder 100g
+@ITEM=1231=kohlrabi
+@ITEM=9194=Coconut Treacle 750ml der
+@ITEM=1230=Fresh Garlic
+@ITEM=9191=Clove whole 100g
+@ITEM=9192=Coriader Whole 250g
+@ITEM=9197=Derana Kithul Jaggary 450g
+@ITEM=9198=Derana Woodapple cordial 750ml
+@ITEM=9195=Semolina Fine 1Kg
+@ITEM=9196=Derana Lime pickle sambol 400g
+@ITEM=1228=Savoy half
+@ITEM=1227=Cabbage Drumhead small
+@ITEM=1226=Kaffir lime leaves
+@ITEM=1225=salted olives Black
+@ITEM=1224=spaghettini 03
+@ITEM=9190=Cardamom Green 100g
+@ITEM=1223=Thai Red Chilli
+@ITEM=1222=Flat Beans
+@ITEM=1221=Baby Artichoke 3 for $1
+@ITEM=1229=Savoy Cabbage Quter
+@ITEM=1242=Rainbow Silverbeet
+@ITEM=1241=Adelaide Tomatoes
+@ITEM=1240=Aussie Cucumber
+@ITEM=1239=continental cucumber 2for 2.40
+@ITEM=1238=continental cucumber bulk
+@ITEM=1237=Baby beetroot 250g
+@ITEM=1236=Butter Beans
+@ITEM=1235=Asparagus Loose
+@ITEM=1234=Zafarelli
+@ITEM=1233=Chilli Paste veg
+@ITEM=1232=onion brown 2kg large
+@ITEM=1011=Brussels sprouts
+@ITEM=2100=Daisy Mandarines
+@ITEM=1253=Spinach Bunch 2for
+@ITEM=1010=Broccolini
+@ITEM=1252=Garlic Shoots
+@ITEM=1251=Garlic Shoots 2for 3.5
+@ITEM=1250=Winter Melon
+@ITEM=1008=Broccoli
+@ITEM=1007=Bok choy
+@ITEM=1249=Garlic Single Clove 250g
+@ITEM=1005=Beetroot
+@ITEM=1247=Katta Sambol Veg
+@ITEM=1004=Beans broad
+@ITEM=1246=baby corn
+@ITEM=1003=Beans baby
+@ITEM=1245=croutouns
+@ITEM=1002=Beans green
+@ITEM=1244=Alfa Alfa
+@ITEM=1001= Australian Asparagus green
+@ITEM=1243=cup mushroom 250g
+@ITEM=1009=Broccoli Chinese
+@ITEM=2111=Late Imperial Mandarines
+@ITEM=1022=Urid Flour 1kg
+@ITEM=1021=Carrots
+@ITEM=2110=Honey Murcott Mandarin
+@ITEM=1020=Carrots Dutch
+@ITEM=1260=Candy Melon
+@ITEM=2108=2kg Marsh Grapefruit
+@ITEM=1018=Capsicum yellow
+@ITEM=2107=3kg Marsh Grapefruit
+@ITEM=1017=Capsicum red
+@ITEM=2106=Lychees
+@ITEM=1259=Onion Shoot 2for
+@ITEM=1016=Capsicum green
+@ITEM=2105=Sundowner Apples
+@ITEM=1015=Cabbage Wombok
+@ITEM=2104=Avocado Hass 2 for $4.50
+@ITEM=1257=Ambarella
+@ITEM=1014=Cabbage Savoy
+@ITEM=2103=Avocado Small Hass
+@ITEM=1256=Snake Gourd
+@ITEM=1013=Cabbage red
+@ITEM=2102=Tangelos
+@ITEM=1255=King oyster
+@ITEM=1012=Cabbage green
+@ITEM=2101=Josephine Pears
+@ITEM=1254=Green Jack Fruits
+@ITEM=2109=Afourer Mandarin
+@ITEM=1033=Eggplant
+@ITEM=2122=Kensington Pride Mangoes large
+@ITEM=1032=Cucumber Lebanese
+@ITEM=2121=D'anjou Pear
+@ITEM=1031=Cucumber continental
+@ITEM=2120=Crimson Snow Apples
+@ITEM=1030=Sweet Corn
+@ITEM=2119=Firm Gold Apple 2kg
+@ITEM=1029=Chilli red
+@ITEM=2118=Avocado Hass Large
+@ITEM=1028=Chilli Birdseye
+@ITEM=2117=Kensington Pride Mango
+@ITEM=1027=Chilli green
+@ITEM=2116=Strawberry 2 for $ 3
+@ITEM=1026=Choy sum
+@ITEM=2115=Strawberry 3 for $5.00
+@ITEM=1025=Celery
+@ITEM=2114=Golden Delicious 1Kg Punnet
+@ITEM=1024=Celeriac
+@ITEM=2113=Ohanez Grapes
+@ITEM=1023=Cauliflower
+@ITEM=2112=Gold Nuggets Mandarin
+@ITEM=2133=Blood Plums
+@ITEM=2132=Drinking Coconut
+@ITEM=1042=Lettuce Butter
+@ITEM=2131=Calypso mango
+@ITEM=1041=Leek baby
+@ITEM=2130=Honey Gold Mango
+@ITEM=1040=Leek
+@ITEM=2129=Green Mango
+@ITEM=1039=Ginger
+@ITEM=2128=Pomegrante 2for $3
+@ITEM=2127=Rainer Cherries
+@ITEM=1038=Garlic Chinese 500g
+@ITEM=1037=Garlic loose
+@ITEM=2126=cherry 500g
+@ITEM=1036=Fennel
+@ITEM=2125=R2E2 Mango 2
+@ITEM=1035=Endive
+@ITEM=2124=mango 2for 3.00
+@ITEM=1034=Eggplant Lebanese
+@ITEM=2123=R2E2 Mango
+@ITEM=2144=Dapple Dandy Plum
+@ITEM=1054=Lettuce Salad mix loose
+@ITEM=2143=Black Plum
+@ITEM=1053=Lettuce Rocket
+@ITEM=2142=Palmer Mango
+@ITEM=1052=Snow pea Tendrils
+@ITEM=2141=Ginger gold apple
+@ITEM=1051=Lettuce Oak green
+@ITEM=2140=Keitt Mango
+@ITEM=1050=Mustard Leaves
+@ITEM=2139=Clapp Pears
+@ITEM=1049=Lettuce Iceberg
+@ITEM=2138=Amber Jewl plum
+@ITEM=2137=Paradise Pear
+@ITEM=1048=mustatd Leaves 2for
+@ITEM=2136=Black currents
+@ITEM=2135=Sweet Tooth Mango
+@ITEM=1045=Lettuce Cos
+@ITEM=2134=Suntina Mandarine
+@ITEM=1066=Onion white
+@ITEM=2155=Golden Moon Rockmelon
+@ITEM=1065=Onion spring
+@ITEM=3001=Basil Thai
+@ITEM=2154=Packham pear 1kg
+@ITEM=1064=Onion red
+@ITEM=3000=Basil Italian
+@ITEM=2153=Lady Jane Mango
+@ITEM=1063=Onion brown
+@ITEM=2152=Moon Drop Grapes
+@ITEM=2151=Autum Giant Plum
+@ITEM=1062=Mushroom Swiss
+@ITEM=2150=Persimons **
+@ITEM=1061=Mushroom Shitake
+@ITEM=1060=King Oyster Baby
+@ITEM=2149=President Plum
+@ITEM=2148=candy gem plum
+@ITEM=1059=Mushroom Oyster 150g
+@ITEM=1058=Mushroom Cup
+@ITEM=2147=2kg Royal gala apple
+@ITEM=2146=Royal Gala 1kg Punnet
+@ITEM=1057=Mushroom Enoki
+@ITEM=1056=Mushroom Button
+@ITEM=2145=Sugar Plum
+@ITEM=3013=Parsley Continental
+@ITEM=1077=Potato washed
+@ITEM=1076=Potato sweet Gold
+@ITEM=3012=Oregano
+@ITEM=3011=Mint Vietnamese
+@ITEM=3010=Mint fresh
+@ITEM=1074=Potato Kipfler
+@ITEM=1073=Potato Desiree
+@ITEM=2162=Nam D0c Mai Mango
+@ITEM=2161=Honey Pear
+@ITEM=1072=Yam
+@ITEM=1071=Potato brushed
+@ITEM=2160=Indian Pearl Pear
+@ITEM=1070=Peas Snow
+@ITEM=3007=Marjoram
+@ITEM=3006=Lemongrass
+@ITEM=2159=Avana Manadarin
+@ITEM=1069=Peas sugar snap
+@ITEM=3005=Dill
+@ITEM=2158=Red Tip Banana
+@ITEM=3004=Coriander
+@ITEM=1068=Peas
+@ITEM=2157=Taylor Lee
+@ITEM=1067=Parsnip
+@ITEM=3003=Chives
+@ITEM=2156=Easy Peal Navel Orange
+@ITEM=1080=Pumpkin Grey
+@ITEM=4350=potato dumplings 500g
+@ITEM=4351=Derana Sago 500g
+@ITEM=4352=Derana Lunumiris
+@ITEM=4353=Derana Kohila curry
+@ITEM=4354=Cream Soda 2L
+@ITEM=4355=Rice Flour unroasted agro
+@ITEM=3024=Pennywort/ gotukola
+@ITEM=3023=Coca Cola 2for 4.50
+@ITEM=1086=Sprouts bean shoots
+@ITEM=3022=Banana Blossom 560g
+@ITEM=3021=Dried Figs 250g
+@ITEM=1084=Silverbeet
+@ITEM=3020=Date Coconut Roll 340g
+@ITEM=1083=Red Shallots
+@ITEM=1082=Rhubarb
+@ITEM=1081=Radish white
+@ITEM=3018=Thyme garden
+@ITEM=3016=Sage
+@ITEM=1079=Pumpkin Japanese/Kent
+@ITEM=3015=Rosemary
+@ITEM=1078=Pumpkin Butternut
+@ITEM=3014=Parsley Curly
+@ITEM=4347=chick pea flour 1kg pattu
+@ITEM=4348=Mung Beans 1kg pattu
+@ITEM=4349=Sun Dried Tomato 100g
+@ITEM=1090=Spinach Bunch
+@ITEM=4360=wijaya chinese Noodles
+@ITEM=4361=Flower Bunch
+@ITEM=4362=Semolina 1kg Fine Pattu
+@ITEM=4363=Semolina Coarse 1kg
+@ITEM=4364=Biriyani Mix 50g
+@ITEM=4365=Lima Beans 500g
+@ITEM=4366=India Gate Super10kg
+@ITEM=1099=Zucchini green
+@ITEM=3035=Whte Rice Flour1kg
+@ITEM=3034=Bite Mixture serandib 200g
+@ITEM=1097=Witlof red
+@ITEM=3033=Chilli Pieces sera
+@ITEM=1096=Watercress
+@ITEM=3032=Mora Dried  200g Derana
+@ITEM=1095=Turnips fresh
+@ITEM=3031=Curry powder250g kandyan
+@ITEM=1094=Turnips
+@ITEM=3030=Flower Pot
+@ITEM=1093=Squash yellow
+@ITEM=3029=Harischandra coffee 100g
+@ITEM=3028=Harishchandra Coffe 200g
+@ITEM=3027=Maggi 2 min
+@ITEM=1089=Spinach Lettuce Mix
+@ITEM=3025=Methi Leaves
+@ITEM=4357=Ghee Toasst
+@ITEM=4358=Nutmeg
+@ITEM=4359=Mung Dhall 1kg
+@ITEM=3046=Al Nakhil Tahina 454g
+@ITEM=3045=Brazils Raw 375g
+@ITEM=3044=Cranberries 500g
+@ITEM=3043=Ginger Beer Bundaberg 375ml
+@ITEM=3042=Derana Indian Basmathi 20kg
+@ITEM=3041=Kottumee Hot & spicy
+@ITEM=3040=Maliban Wafers vanila 100g
+@ITEM=3039=Brinjal Moju serendib 250g
+@ITEM=3038=Maliban Krisco
+@ITEM=3037=Maliban Ginger Nut 2*160g
+@ITEM=3036=Maliban Nice 2*200g
+@ITEM=3057=Kithul jaggery 500g se
+@ITEM=3056=Cinnamon Quills100g
+@ITEM=3055=Roasted curry powder500g kand
+@ITEM=3054=Black Pepper 150g dera
+@ITEM=3053=Cumin Ground 200g
+@ITEM=3052=Cumin Ground 50g
+@ITEM=3051=cloves 200g
+@ITEM=3050=Cloves Whole 30g
+@ITEM=3049=Cardmon Pods 200g
+@ITEM=3048=Cardamon Pods 100g
+@ITEM=3047=Raw Sugar 1kg
+@ITEM=3060=Paprika Sweet 200g
+@ITEM=5000=Eggs 700g
+@ITEM=5001=eggs 800g
+@ITEM=5002=Eggs 850g
+@ITEM=5003=egg free range 500g
+@ITEM=5004=egg free range 600g
+@ITEM=3068=Lemon Puff Mun
+@ITEM=3067=Hawaian Cookies mun
+@ITEM=3065=Cooking Sauce
+@ITEM=3064=Papadam 200g derana
+@ITEM=3063=Suimin Noodles
+@ITEM=3062=Daawat 20kg
+@ITEM=3061=Potato Gnocchi
+@ITEM=3059=Malay Pickle derana
+@ITEM=3058=Whole Chilli500g
+@ITEM=3071=Ginger Nut Mun
+@ITEM=3070=Cream Cracker Mun
+@ITEM=5010=Derana chilli powder 250g
+@ITEM=5011=Derana curry powder 500g
+@ITEM=5012=Derana curry powder 250g
+@ITEM=5013=Derana Goraka Pieces 100g
+@ITEM=5014=Derana Jaffna curry powder 350g
+@ITEM=5015=Derana Mustard Powder 200g
+@ITEM=3079=Roasted Chilli 250g ra
+@ITEM=3078=Briyani Masala 200g
+@ITEM=3077=Meat Masala 200g
+@ITEM=3076=Chicken Masala 200g
+@ITEM=3075=Garam Masala 100g
+@ITEM=3074=Tamarind 200g
+@ITEM=3073=Polos In Brine
+@ITEM=3072=SwissRoll Chocolate
+@ITEM=3069=Milk Short Mun
+@ITEM=5005=Derana Papper Crush 200g
+@ITEM=5006=Derana Pepper Powder 200g
+@ITEM=5007=Derana chilli Pieces 500g
+@ITEM=5008=derana chilli pieces 250g
+@ITEM=5009=Derana Chilli Powder 500g
+@ITEM=3082=Mango Chutney LA
+@ITEM=5020=Derana sago 250g
+@ITEM=3081=Coconut Sambol veg LA
+@ITEM=5021=Dearana Special Pappadam 100g
+@ITEM=3080=Coconut Sambol Red LA
+@ITEM=5022=Derana katta curry 325g
+@ITEM=5023=Dearana kohila Dalu curry 350g
+@ITEM=5024=Derana Mango curry 350g
+@ITEM=5025=Derana cashew curry 340g
+@ITEM=5026=Derana fish Abulthiyal 300g
+@ITEM=3089=India Gate Sella 5kg
+@ITEM=3088=Red Raw Rice 5g CIC
+@ITEM=3087=Coriander seed 500g
+@ITEM=3086=Chicken curry Mix La
+@ITEM=3085=Green Coconut Sambol Rabeena
+@ITEM=3084=Lime Pickle LA
+@ITEM=3083=Ambulthiyal Mix LA
+@ITEM=5016=Derana R/curry powder 250g
+@ITEM=5017=Derana R/Curry powder 500g
+@ITEM=5018=Derana R/chilli powder 250g
+@ITEM=5019=Whole chilli 100g
+@ITEM=5030=Derana garlic crush 350g
+@ITEM=3093=Toor Dhall 5kg
+@ITEM=5031=Garlic & ginger 1kg
+@ITEM=3092=Pepper Crushed 100g
+@ITEM=5032=Derana garlic & ginger 350g
+@ITEM=3091=Christmas Cake 600g
+@ITEM=5033=Derana ginger minced 350g
+@ITEM=3090=Maggi coco 300g
+@ITEM=5034=Derana ginger minced 1kg
+@ITEM=5035=Derana R/coco sambol 300g
+@ITEM=5036=Derana Dry seeni samble 325g
+@ITEM=5037=Derana Maldive f Sambol 200g
+@ITEM=3099=Siddhalepa
+@ITEM=3098=Sago 250g
+@ITEM=3097=Atta Chakki Fresh
+@ITEM=3096=Cinnamon 50g kandyan
+@ITEM=3095=Lite Red Raw Rice5kg
+@ITEM=3094=Lite Red Raw Rice1kg
+@ITEM=5027=Derana polos Mallum 325g
+@ITEM=5028=Polos Ambula 350g
+@ITEM=5029=Garlic crush 1kg
+@ITEM=5041=Derana v/coconut sambol 300g
+@ITEM=5042=Derana veg red coco sambol 225g
+@ITEM=5043=Derana veg lunumiris 350g
+@ITEM=5044=Derana veg seeni sambol 350g
+@ITEM=5045=Derana Fried katta 200g
+@ITEM=5046=Derana fried sprat 175g
+@ITEM=9888=Ginger Black Tea
+@ITEM=5047=Derana fried Thalapath 200g
+@ITEM=5048=Derana Fried Brinjol 125g
+@ITEM=5040=Derana chilli paste 350g
+@ITEM=5038=Derana katta sambol 350g
+@ITEM=5039=Dearana kooni sambol 275g
+@ITEM=5052=Derana chicken curry mix 375g
+@ITEM=9894=Derana Bite Mixture 200g
+@ITEM=5053=fish curry mix 375g
+@ITEM=9895=Ginger & Apple Juice
+@ITEM=5054=Derana Rasam Mix 300g
+@ITEM=9892=king coconut water
+@ITEM=5055=Derana Ambulthiyal Mix 350g
+@ITEM=9893=Turkish white Coarse Burgul 500g
+@ITEM=5056=Derana Buriyani Mix 375g
+@ITEM=9898=Paprika Sweet 100g
+@ITEM=5057=Derana Yellow Rice Mix 350g
+@ITEM=9899=Urid Whole White 1kg
+@ITEM=9896=Pinklady Apple Juice
+@ITEM=5059=Derana Tamarind Paste 400g
+@ITEM=9897=Fuji Apple Juice
+@ITEM=9890=Fried Jack fruit chips 200g
+@ITEM=9891=Tomato
+@ITEM=5051=Derana Mutton curry mix 350g
+@ITEM=5049=Derana Pork curry mix 350g
+@ITEM=9889=Black Tea 100
+@ITEM=7000=Virgin olive oil 1Lt
+@ITEM=5063=Derana SWT chilli sauce 350ml
+@ITEM=5064=Derana Tomato sauce 350ml
+@ITEM=7002=Thyme Honey
+@ITEM=5066= Mango Chutney 450g der
+@ITEM=7004=Virgin Olive Oil 500ml
+@ITEM=5067=Supiri Keeri Samba5kg
+@ITEM=7003=Virgin Olive oil 4Lt
+@ITEM=5068=Rosa Kekulu Samba5kg kandyan
+@ITEM=7006=Pasta Long
+@ITEM=5069=Sudu Kekulu5kg Kandyan
+@ITEM=7005=Pasta short
+@ITEM=5060=Derana BBQ Sauce 350ml
+@ITEM=5061=Derana Chilli Garlic sauce 350ml
+@ITEM=5062=Derana Chilli sauce 350ml
+@ITEM=7011=Olive Oil Rusk
+@ITEM=5074=Tamarind 400g
+@ITEM=7010=Barley Rusk
+@ITEM=5075=Tamarind 200g Derana
+@ITEM=7013=Desiccated Medium 400g
+@ITEM=7012=Barley Rusk Samaria
+@ITEM=7015=Desiccated Low Fat 400g
+@ITEM=7014=Coconut Fine 500g
+@ITEM=7017=Virgin Coconut Oil organic Frank
+@ITEM=7016=Brinjal Pickle 400g
+@ITEM=5070=Fried Sprats 160g kandy
+@ITEM=5071=Quil Egg
+@ITEM=5072=India Gate Super 10kg
+@ITEM=5073=Fennel Seeds 100g
+@ITEM=7008=Pasta
+@ITEM=7007=Delmage Jack Ma 425g
+@ITEM=7009=Sweet Rusk
+@ITEM=9201=Derana Passionfruit cordial 750ml
+@ITEM=9202=Derana Mango cordial 750ml
+@ITEM=9200=Kithul Treacle360ml
+@ITEM=9205=Derana Basmathi 5kg
+@ITEM=9206=Derana Basmathi 10kg
+@ITEM=9203=Derana Mixed fruit Jam 450g
+@ITEM=9204=Derana Woodapple Jam 450g
+@ITEM=7018=Premium 5k Pattu
+@ITEM=9212=MDK Hopper Mix
+@ITEM=9213=Amberella Curry
+@ITEM=9210=Derana Cinnamon Quills 50g
+@ITEM=9211=Derana Coconut Vinegar 750ml
+@ITEM=9216=Derana Muthu Samba 1kg
+@ITEM=9217=Derana keeri samba 5kg
+@ITEM=9214=Turmeric Powder 100g kandyan
+@ITEM=9215=Derana Muthu Samba 5kg
+@ITEM=9209=Derana Paspanguwa 100g
+@ITEM=9207=Derana Indian Basmathi 5kg
+@ITEM=9208=Derana Indian Basmathi 10kg
+@ITEM=9223=Derana Raw Rice 1kg
+@ITEM=9224=white Raw Rice 5kg Derana
+@ITEM=9221=Derana Suduru samba 1kg
+@ITEM=9222=Derana Red Raw Rice 5kg
+@ITEM=9227=Derana Red Basmathi 1kg
+@ITEM=9228=Derana Lite Basmathi 5kg
+@ITEM=9225=Derana white Raw Rice 1kg
+@ITEM=9226=Derana Red Basmathi 5kg
+@ITEM=9220=Derana white keeri samba 1kg
+@ITEM=9218=Derana keeri samba 1kg
+@ITEM=9219=Derana white keeri samba 5kg
+@ITEM=9234=Derana Rulan Aluwa 350g
+@ITEM=9232=Derana hand pou.parb red 5kg
+@ITEM=9233=Derana hand POU.PARB.REd 1kg
+@ITEM=9238=Thalaaluwa 350g
+@ITEM=9239=Derana Bite Mixture Dhal 200g
+@ITEM=9236=Red coconut Sambol
+@ITEM=9237=Derana Sesame Rolls 200g
+@ITEM=9231=Derana parboiled 1kg
+@ITEM=9229=Derana Lite Basmathi 1kg
+@ITEM=9003=Delmage Soyameat Mutton 90g
+@ITEM=9245=Renuka coconut Milk PDR 1kg
+@ITEM=9246=Renuka coconut PDR 300g
+@ITEM=9004=Derana Jack Mackerel 425g
+@ITEM=9001=Peeled Plum Tomatoes
+@ITEM=9243=wijaya kurakkan Flour 400g
+@ITEM=9002=Diced Tomatoes
+@ITEM=9244=Derana Ros /Rice FLR Red 1kg
+@ITEM=9249=Derana coconut oil 400ml
+@ITEM=9247=Derana coconut cream 400ml
+@ITEM=9005=Derana Mackerel 425g
+@ITEM=9248=Derana coconut Milk 400ml
+@ITEM=9006=Derana Ginger Preserve 450g
+@ITEM=9241=Derana Red S/H flour 700g
+@ITEM=9000=Passata 700g
+@ITEM=9242=Derana white S/H flour 700g
+@ITEM=9240=Derana Murukku 100g
+@ITEM=9014=Dreana special Noodles 400g
+@ITEM=9256=Derana Beef Curry Mix 375g
+@ITEM=9015=kottu mee chicken 78g
+@ITEM=9257=Maliban Marie Biscuit 400g
+@ITEM=9012=Derana Tikiri soya 250g
+@ITEM=9254=Pears 300g
+@ITEM=9013=Derana Soya Chunks 500g
+@ITEM=9255=Fruit Salad Special 300g
+@ITEM=9018=Wijaya Pppadam
+@ITEM=9019=Motha Wattalappan 110g
+@ITEM=9016=Harischandra Noodless 400g
+@ITEM=9258=Rigatoni No.58
+@ITEM=9017=Wijaya Special Noodles
+@ITEM=9259=Bucatini No.6
+@ITEM=9010=Delmage Soyameat Curry
+@ITEM=9252=Banana Chips280g
+@ITEM=9011=Derana Soyameat Regular
+@ITEM=9253=Apricot Dried 500g
+@ITEM=9250=Derana Virgin Coconut oil 300ml
+@ITEM=9251=Derana coconut viniger 350ml
+@ITEM=9025=Wijaya Meat curry Powder Mixture
+@ITEM=9267=V/ R Coconut Sambol 300g
+@ITEM=9026=Wijaya chilli pieces 250g
+@ITEM=9268=Fava Beans 398ml
+@ITEM=9023=Motha Mix fruit flavour Jelly
+@ITEM=9265=Icing Sugar 500g
+@ITEM=9024=Motha Strawberry flavour Jelly100g
+@ITEM=9266=Corriander Ground 200g
+@ITEM=9029=Wijaya curry Powder 500g
+@ITEM=9027=Wijaya chilli Pieces 500g
+@ITEM=9269= Dried Sprats 200g lakmalu
+@ITEM=9028=Wijaya Chilli Powder250g
+@ITEM=9260=Pure Honey 1kg
+@ITEM=9021=Motha Jelly Lime flavoured
+@ITEM=9263=Desiccated coconut 500g
+@ITEM=9022=Miotha Jelly Mango Flavoured
+@ITEM=9264=Sunflower Seeds 300g
+@ITEM=9261=Dried fish Katta 200g
+@ITEM=9262=Cannelini Beans 400g
+@ITEM=9020=Motha Caramel 100g
+@ITEM=9278=Dried Paraw 250g Agro
+@ITEM=9279=Tea Dried Keerameen 250g
+@ITEM=9276=Captain Jack Mackerel 800g
+@ITEM=9277=Delmage Jack Mackerel 400g
+@ITEM=9270=Paw Paw Diced 500g
+@ITEM=9271=Maliban Gold Maie 320g
+@ITEM=9032=Maliban Cheesebits
+@ITEM=9274=Dried Prawns (boil & Dried)
+@ITEM=9033=Maliban Chick Bits
+@ITEM=9275=Captain Jack Mackerl 400g
+@ITEM=9030=Wijaya Curry Powder 250g
+@ITEM=9272=Muth Samba 5kg Araliya
+@ITEM=9031=Wijaya fish curry Powder 70g
+@ITEM=9273=Kithul Jaggery 300g
+@ITEM=9047=Derana Panna Dried Fish 200g
+@ITEM=9289=Jak Mallum In brine Arali
+@ITEM=9048=Richmi Mora Dried Fish 150g
+@ITEM=9045= Mustatd Sauce 375g
+@ITEM=9287=MD Original Mango Chutney
+@ITEM=9046=Derana Dried Prawns 175g
+@ITEM=9049=Derana Paraw Dried Fish 200g
+@ITEM=9281=Tea Coconut Milk
+@ITEM=9282=Elephant House EGB 1.5L
+@ITEM=9280=Goraka Paste Derana
+@ITEM=9285=Tea Toor Dhal 1Kg
+@ITEM=9044=Sesame Balls 200g
+@ITEM=9286=MD Mango Chutney
+@ITEM=9283=Elephant EGB 400ml
+@ITEM=9284=Red Basmathi 5kg Araliya
+@ITEM=9058=Maliban Orange cream 500g
+@ITEM=9059=Little Lion Batter Carol 275g
+@ITEM=9056=Samaposha 200g
+@ITEM=9298=Tea Coconut Cream
+@ITEM=9057=Gold Marie 2for2.50
+@ITEM=9299=Rancrisp Burnt cashew 100g
+@ITEM=9050=Derana Anguluwa Dried fish 200g
+@ITEM=9292=Jack Fruit Young Green
+@ITEM=9293=Tamarind Seedless 500g
+@ITEM=9051=Maldive fish chips 200g dera
+@ITEM=9290=Delmage Tea Pouch 200g
+@ITEM=9291=MD Kithul Juggery 500g
+@ITEM=9054=Link Samahan 25 Pac
+@ITEM=9296=Lal Qilla Basmathi 5kg
+@ITEM=9055=Link Samahan 10Pac
+@ITEM=9297=Daawat Super Basmathi 6.5kg
+@ITEM=9052=Bhuja Mix with Cashew Nuts 200g
+@ITEM=9294=Indian Gate Super 6.250kg
+@ITEM=9053=Link Samahan 5 Pac
+@ITEM=9295=Indian Gate Classic 5kg
+@ITEM=9069=Royal Hot & Spicy Cashew Nuts 100g
+@ITEM=9067=Royal Chilli Garlic Cashew Nuts 100g
+@ITEM=9068=Royal Oven Baked Cashews 100g
+@ITEM=9061=chocolate cream bis 2 for 5.50
+@ITEM=9062=Lemon Puff 2 for 2.50
+@ITEM=9060=Maliban Chocolate Cream Biscuit 500g
+@ITEM=9065=Maliban Wafers Chocolate 100g
+@ITEM=9066=Cream Cracker190g
+@ITEM=9063=Hawaiian Cookiea 2for 2.80
+@ITEM=9064=Maliban Cream Cracker 500g
+@ITEM=9078=MiXed Herbal Porridge 50g
+@ITEM=9079=Karapincha Porridge 50g
+@ITEM=9072=Basil Seed Rose Sharbath
+@ITEM=9073=Giger Beer Elp 330ml
+@ITEM=9070=Basil seed With Pomegranate 290ml
+@ITEM=9071=Basil seed Mango Sharbath 290ml
+@ITEM=9076=Welpenela Porridge 50g
+@ITEM=9077=Hathawariya Porridge 50g
+@ITEM=9074=Cream Soda Elp 330ml
+@ITEM=9075=Nectp Ele 330ml
+@ITEM=1107=Tomatoes Cherry
+@ITEM=1100=Zucchini Lebanese
+@ITEM=1109=Tomatoes Roma
+@ITEM=1108=Tomatoes Hydroponic
+@ITEM=9089=Gooddies Rice Crackers 100g QBMA
+@ITEM=1121=Garlic 500g
+@ITEM=9083=Cannellini Beans 500g
+@ITEM=1120=Baby Cos 2pac
+@ITEM=9084=Borlotti Beans 400g
+@ITEM=9081=Wijaya Roasted curry powder 250g
+@ITEM=9082=Lentils 400g
+@ITEM=9087=Red Kidney Beans 400g
+@ITEM=9088=Rice Crackers 100g
+@ITEM=9085=Butter Beans 400g
+@ITEM=9086=Chick Peas 400g
+@ITEM=1118=Cauliflower half
+@ITEM=1116=Mushroom flat
+@ITEM=1115=chilli yellow long
+@ITEM=1114=bitter melon
+@ITEM=1113=Field Tomatoes
+@ITEM=9080=Wijaya Tumaric Powder 250g
+@ITEM=1112=Green Kale Bunch
+@ITEM=1111=Tomatoes Truss
+@ITEM=1119=Onion Pickling
+@ITEM=1132=cabbage half
+@ITEM=9094=Chicken Noodless cup 70g
+@ITEM=1131=Lemon
+@ITEM=9095=Trivelle No.17
+@ITEM=1130=Radish White Bunch
+@ITEM=9092=Cous cous Pearl 300g
+@ITEM=9093=Lasagna Sheets Large 250g
+@ITEM=9098=Linguine No.1
+@ITEM=9099=Maccheroni No.32
+@ITEM=9096=Fusilli No.56
+@ITEM=9097=Spirali No.55
+@ITEM=1129=potatoes royal blue
+@ITEM=1128=Chilli Red Long bullhorn
+@ITEM=1127=Long Melon
+@ITEM=1126=tomatoes Grape
+@ITEM=1125=Coconut
+@ITEM=9090=Delites Seasalt & Balvin
+@ITEM=9091=Cous cous 500g
+@ITEM=1123=Asparagus white
+@ITEM=1122=potatoes Red 5kg
+@ITEM=1143=Buk choy
+@ITEM=1142=onion brown 10kg
+@ITEM=1141=Pac choy
+@ITEM=1140=onion red 2kg
+@ITEM=1139=onion brown 2kg Small
+@ITEM=1138=kiwifruit multibuy 5 for $2
+@ITEM=1137=Black pepper Powder100g pattu
+@ITEM=1136=wash potatoes 5kg
+@ITEM=1135=cabbage red half
+@ITEM=1134=cabbage  quater green
+@ITEM=1133=cabbage Quater
+@ITEM=2001=Apples Golden Delicious
+@ITEM=1154=Radish Red
+@ITEM=2000=Apples Fuji
+@ITEM=1153=Cabbage Drumhead
+@ITEM=1152=Curry Leaves
+@ITEM=1151=Mix cherry tomatoes
+@ITEM=1150=tomato sweet cherry vine
+@ITEM=1149=Pac choy 3 for $2.
+@ITEM=1148=Celery Pieces
+@ITEM=1147=Potato Brush 2.5Kg
+@ITEM=1146=chilli Jalapeno
+@ITEM=1145=Corn 3 For 2
+@ITEM=1144=potato Red 4kg
+@ITEM=1165=Pak choy
+@ITEM=2012=Berries Blackberry
+@ITEM=3101=Black Pepper Crushed100g
+@ITEM=1164=Hairy Melon
+@ITEM=3100=Chilli Crushed 250g Kandyan
+@ITEM=2010=Banana Cavendish
+@ITEM=1163=Brushed Potatoes 5kg bag
+@ITEM=1162=Rocket leaves 100g
+@ITEM=1161=Kang Kong
+@ITEM=1160=Thai Eggplant
+@ITEM=2009=Banana Monkey
+@ITEM=2008=Avocado Shepard
+@ITEM=2007=Apricots
+@ITEM=1159=Red Potatoes 2kg
+@ITEM=2005=Apples Royal Gala
+@ITEM=1158=Mushrooms Sliced 200g
+@ITEM=2004=Apples Red Delicious
+@ITEM=1157=Mushrooms Swiss Brown
+@ITEM=2003=Apples Pink Lady
+@ITEM=1156=Chokoes
+@ITEM=2002=Apples Granny Smith
+@ITEM=1155=Washed Potatoes 2.5kg
+@ITEM=2023=Crimson Grapes
+@ITEM=1176=Sinqua (Angled Luffa)
+@ITEM=3112=Lite R/Raw Samba1kg
+@ITEM=2022=Grapes white Seedless
+@ITEM=1175=Leeks slim 3pak
+@ITEM=3111=Red Raw Samba1kg
+@ITEM=2021=Grapes black
+@ITEM=1174=Garlic chives
+@ITEM=3110=Nipuna supiri samba5kg
+@ITEM=1173=Swedes Turnips
+@ITEM=2020=Grapefruit yellow
+@ITEM=1172=Tomato mini roma 250g
+@ITEM=1171=Baby Spinach 100g
+@ITEM=1170=Salad Mix 100g
+@ITEM=3109=Biscota Cocoa
+@ITEM=2019=Grapefruit Ruby
+@ITEM=3108=Supiri Keeri Samba 5kg CIC
+@ITEM=2018=Figs
+@ITEM=3107=Red Raw Samba 5kg Cic
+@ITEM=2017=Cherries
+@ITEM=3106=Keeramin Large200g sera
+@ITEM=2016=Berries Strawberry (medium)
+@ITEM=1169=wombok half
+@ITEM=3105=Keeramin Small 200g Sera
+@ITEM=2015=Berries Strawberry (large)
+@ITEM=1168=Chilli Green long bullhorm
+@ITEM=3104=Dried Anguluwa sera
+@ITEM=2014=Berries Raspberry
+@ITEM=1167=Sweet potatoes Purple
+@ITEM=3103=Dried Thalapath 200g derana
+@ITEM=2013=Berries Blueberry
+@ITEM=1166=Broccoli Chinese 2 for 3.40
+@ITEM=3102=Black Pepper 200g Kandyan
+@ITEM=2034=Passionfruit
+@ITEM=1187=Chickory
+@ITEM=3123=Kithul Jaggary 450g
+@ITEM=2033=Orange valencia
+@ITEM=1186=Cooking Banana
+@ITEM=3122=Kalu Dodol 450g
+@ITEM=2032=Orange navel
+@ITEM=1185=Cooking Papaya
+@ITEM=3121=Liittle Chocolate Roll
+@ITEM=2031=Orange blood
+@ITEM=1184=Bean Sprouts
+@ITEM=3120=Macaroni 02
+@ITEM=2030=Nectarine Yellow
+@ITEM=1183=cherry Truss tomato
+@ITEM=1182=choy sum 2 for $ 1.99
+@ITEM=1181=Cocktail Tomatoes
+@ITEM=1180=Leeks Trimmed
+@ITEM=3119=Macaroni 05
+@ITEM=2029=Keow Mango
+@ITEM=3118=Pennaki1 81
+@ITEM=2028=Mandarine Clementine
+@ITEM=3117=Pepper Powder Wij 250g
+@ITEM=2027=Limes
+@ITEM=3116=Attiki Honey 500g
+@ITEM=1179=1kg olive pack
+@ITEM=2026=Firm Grapes
+@ITEM=3115=Papagalos Coffee 490g
+@ITEM=2025=Kiwi fruit Green
+@ITEM=1178=Tuscan Kale
+@ITEM=3114=Risoni Medium
+@ITEM=2024=Honeydew
+@ITEM=1177=Hawaian Sweet Potato
+@ITEM=3113=Risine Large 500g
+@ITEM=1190=Artichoke
+@ITEM=9910=Vasilopita 650g
+@ITEM=2045=Watermelon seedless
+@ITEM=1198=Jambo kalamata olives
+@ITEM=3134=Milk Shortcake Maliban
+@ITEM=1197=Taro
+@ITEM=2044=Watermelon seeded
+@ITEM=3133=Urid Flour 200 Wijaya
+@ITEM=1196=5kg Red onion
+@ITEM=3132=Divul Kiri 750ml
+@ITEM=1195=Celery half
+@ITEM=3131=Yahaposha 200g
+@ITEM=2041=Rockmelon
+@ITEM=1194=Kohlrabi Purple
+@ITEM=3130=Tandoori Masala
+@ITEM=1193=Red Radish bunch
+@ITEM=2040=Plums Red
+@ITEM=1192=Celery Naked
+@ITEM=1191=Red onion 10kg
+@ITEM=9908=MD Woodapple Cream
+@ITEM=3129=Biryani Masala 200g
+@ITEM=2039=Pineapple
+@ITEM=9909=Nipuna keeri samba 5kg
+@ITEM=3128=Garam Masala Shan
+@ITEM=2038=Pears William
+@ITEM=3127=Vegetable Oil 5Lt
+@ITEM=2037=Pears brown bosc
+@ITEM=3126=Mustard Cream 150g
+@ITEM=2036=Peaches Yellow
+@ITEM=1189=Radicchio
+@ITEM=3125=Brinjol Moju Deran
+@ITEM=2035=Pawpaw
+@ITEM=1188=Turmeric
+@ITEM=3124=Sprats 150g Richmi
+@ITEM=9902=Ginger & Garlic 350g Pattu
+@ITEM=9903=Garlic Mince 350g Pattu
+@ITEM=9900=Daawat everyday5kg
+@ITEM=9901=Devaaya 10kg
+@ITEM=9906=MD Woodapple Nectar 750ml
+@ITEM=9907=MD Belicream
+@ITEM=9904=polos Mellum in Brine 560g
+@ITEM=9905=Daawat Biriyani Rice 5kg
+@ITEM=9920=Tamarind 100g
+@ITEM=9921=Olive Pickle 400g
+@ITEM=2056=Plums Flavour
+@ITEM=3145=Brown Sugar 1kg
+@ITEM=2055=grapes sulthana
+@ITEM=3144=Sprats ready to cook
+@ITEM=2054=Mangosteen
+@ITEM=3143=Cumin Powder 100g
+@ITEM=2053=Honeydew Half
+@ITEM=2052=Rockmelon Half
+@ITEM=2051=Peach clingstone
+@ITEM=2050=Dragonfruit
+@ITEM=9919=Fried Sprats 160g
+@ITEM=3139=Buriyani Mix LA
+@ITEM=2049=TPP Mango
+@ITEM=3138=Yellow Mustard seeds 100g
+@ITEM=2048=Papaya Red
+@ITEM=3137=Thora Dried Derana
+@ITEM=2047=Plums october sun
+@ITEM=3136=Bran Crackers Mal
+@ITEM=2046=Pomegranate
+@ITEM=1199=Black Russian Tomato
+@ITEM=3135=Sherbet Syrup750ml
+@ITEM=9913=Coca cola 1.25L
+@ITEM=9914=MD Coconut Milk 400ml
+@ITEM=9911=Self Raising 2kg
+@ITEM=9912=Fresh Juice 2 for $5
+@ITEM=9917=Samahan 30Pack
+@ITEM=9918=Thalapath 150g Richmi
+@ITEM=9915=Breadfruit in Brine serendib
+@ITEM=9916=Link Enriched Paspanguwa
+@ITEM=9931=Toast
+@ITEM=4000=Cashews Natural 375
+@ITEM=4001=Cashews Raw 500g
+@ITEM=9932=Lychi drink 200ml
+@ITEM=9930=Basil seed lychi 290ml
+@ITEM=4003=U/R chilli Powder Rabee
+@ITEM=2067=Gold Kiwi 2 for
+@ITEM=3156=Raw Peanut 1kg
+@ITEM=2066=Apple pink lady 1kg Punnet
+@ITEM=3155=Devaaya 20kg
+@ITEM=2065=Avocado Hass Medium
+@ITEM=2064=Piel de Sapo Melon
+@ITEM=3153=Harischandra Those Mix
+@ITEM=2063=Quinces
+@ITEM=3152=Harischandra hopper mix
+@ITEM=2062=kiwi fruit Gold
+@ITEM=3151=Cinnamon Powder100g der
+@ITEM=2061=apple pink lady 2kg
+@ITEM=2060=Custard Apple
+@ITEM=3149=Dried Shrimp 200g Derana
+@ITEM=2059=peaches white
+@ITEM=2058=Persimmons
+@ITEM=3147=Barley 250g derana
+@ITEM=2057=ya pears
+@ITEM=3146=Marmite210g
+@ITEM=9924=Red Split Lentils 2kg
+@ITEM=9925=Super chef 5kg
+@ITEM=9922=Basil seed Mango Juice290ml
+@ITEM=9923=Thalaguli 250g serendib
+@ITEM=9928=Vegetable oil 2lt
+@ITEM=9929=Sunflower oil 5lt
+@ITEM=9926=Mithas 5kg
+@ITEM=9927=Sunflower oil 2Lt
+@ITEM=2070=Mandarin Imperial
+@ITEM=4010=Savoury Nuts 170g Mun
+@ITEM=9942=Paspanguwa seren
+@ITEM=4011=Ginger Tea 200g
+@ITEM=9943=Garlic Pickle
+@ITEM=4012=Cheese Buttons 215g mun
+@ITEM=4013=1Lt Coconut Oil Ver
+@ITEM=9940=Naga Pickle
+@ITEM=9941=cashew curry seran
+@ITEM=4014=Pure Ghee 200ml
+@ITEM=2078=Grapefruit Marsh
+@ITEM=3167=Coconut Milk Pow1kg Arali
+@ITEM=2077=Apple Granny Smith 1kg bag
+@ITEM=2076=Pink lady kids pack 1kg
+@ITEM=2075=Avocado 2 for $
+@ITEM=3164=Suduru Samba 5kg Araliya
+@ITEM=2074=Grapes Red Globe
+@ITEM=3163=Raw Cashews 1kg Derana
+@ITEM=2073=Plums Angelino
+@ITEM=3162=Turmaric Powder250g Ruhunu
+@ITEM=2072=Passionfruit 2 for $2
+@ITEM=3161=Chilli Pieces250g Ruhunu
+@ITEM=2071=Pineapple sweet Large
+@ITEM=3160=Chilli powder 250g Ruhunu
+@ITEM=3159=Lakmalu Maldivefish 100g
+@ITEM=2069=apple Jazz
+@ITEM=3158=Lakmalu Katta off Cut
+@ITEM=2068=Monsoon Basmathi 5kg
+@ITEM=3157=Lakmalu Mora 175g
+@ITEM=9935=Pure coconut water 520ml
+@ITEM=4004=Cream Cracker Munc 400g
+@ITEM=4005=1Lt Coconut oil
+@ITEM=9936=Chicken Masala 50g
+@ITEM=9933=Tamarind Drink
+@ITEM=4006=Pure Ghee 500ml
+@ITEM=4007=Hot and Spicy Mix
+@ITEM=9934=Coconut Drink
+@ITEM=4008=Swiss Roll vanila
+@ITEM=4009=Raw Cashew 500g dera
+@ITEM=9937=Egg freerang 700
+@ITEM=9938=Chanacur hot
+@ITEM=2081=Figs 2 for $ 1.50
+@ITEM=2080=Papaya
+@ITEM=9950=Pasta sause Basilico
+@ITEM=4020=Marie 400g Munchee
+@ITEM=4021=Gem Munchee
+@ITEM=4022=Basmathi 1kg Monsoon
+@ITEM=9953=Dry Cake 400g
+@ITEM=4023=Sultana
+@ITEM=9954=Cookies Biscuit
+@ITEM=4024=Red Onion
+@ITEM=9951=Pasta sause Peperoni
+@ITEM=9952=Pasta sause Verdure
+@ITEM=2089=Pomelo
+@ITEM=2088=grapes Calmeria
+@ITEM=2087=navel oranges 3kg
+@ITEM=2086=Gold Honeydew
+@ITEM=2085=Black Spanish Queen Olives
+@ITEM=2084=Kalamata Olives
+@ITEM=2083=Figs 370g pak
+@ITEM=2082=Red Nashi Pear
+@ITEM=3171=Sinhala Achcharu Araliya
+@ITEM=2079=Pear Packham
+@ITEM=4015=Vinegar 350ml
+@ITEM=9946=Roasted Peanut
+@ITEM=9947=White vinegar 500ml
+@ITEM=4016=Chocolate M
+@ITEM=4017=Soya Crisps 200g
+@ITEM=9944=Coconut oil 300ml serendib
+@ITEM=4018=Drumstick
+@ITEM=9945=Virgin coconut oil 300ml
+@ITEM=4019=Nice Munchee 200g
+@ITEM=9948=Balsamic Vinegar 500ml
+@ITEM=9949=Pasta Sauce arrbbiata
+@ITEM=2092=Guava
+@ITEM=9960=wijaya chilli powder 500g
+@ITEM=4030=Beans Snake
+@ITEM=2091=Orange Navel Australian
+@ITEM=9961=Pitted Green olive 1kg
+@ITEM=4031=Longans
+@ITEM=2090=Papaws Yellow
+@ITEM=4032=Prepacked Chinese Garlic
+@ITEM=4033=Carrots 1kg
+@ITEM=9964=Bruschetta alle verdure
+@ITEM=4034=Apple Granny smith 2kg Bags
+@ITEM=9965=Bruschetta all aglio
+@ITEM=4035=Pear Nashi
+@ITEM=9962=Bruschetta al pomodoro
+@ITEM=4036=Cherry Tomatoes 250g
+@ITEM=9963=Bruschetta ai peperoni
+@ITEM=2099=Mango Ataulfo
+@ITEM=2098=Rambutan
+@ITEM=2097=Mandarin Hickson
+@ITEM=2096=Gold Nugget700g
+@ITEM=2095=Natural Dates 1kg Medjioul
+@ITEM=2094=Bananas Ladyfinger
+@ITEM=2093=pear Bosc
+@ITEM=4026=Borlotti Beans
+@ITEM=9957=sinhala Pickle 375g MD
+@ITEM=4027=Prickly pears
+@ITEM=9958=White Basmathi 1kg cic
+@ITEM=4028=Cocktail Potatoes
+@ITEM=9955=Red Parboiled Rice 1kg CIC
+@ITEM=4029=Nectarine White
+@ITEM=9956=White Raw Rice 1Kg CIC
+@ITEM=9959=Suwadel Rice 1kg
+@ITEM=4040=Onion Shallots
+@ITEM=9971=coconut milk powder 300g or
+@ITEM=4041=Okra
+@ITEM=9972=Micro herbs
+@ITEM=4042=Tomato Field
+@ITEM=4043=pear corella
+@ITEM=9970=Thalapath Dried Araliya
+@ITEM=4044=Red Lentils
+@ITEM=9975=Annapura Atta 1kg
+@ITEM=4045=Peanut Unsalted 500g
+@ITEM=9976=Rozana basmati 5kg
+@ITEM=4046=Peanut Salted 500g
+@ITEM=9973=Fava Beans 500g
+@ITEM=4047=Cobbers
+@ITEM=9974=Atta 1kg Pattu
+@ITEM=4037=Mix Medley Tomatoes
+@ITEM=9968=Plain flour 2kg
+@ITEM=4038=3kg Valencia Oranges
+@ITEM=9969=Easter Candle
+@ITEM=4039=Bunch Roses
+@ITEM=9966=Pineapple Jam Kist300g
+@ITEM=9967=Mixed Fruit Jam300gkist
+@ITEM=4051=Rigatoni
+@ITEM=9982=Dried Thora 250g
+@ITEM=4052=Red Rice Flour1kg
+@ITEM=4053=Mix Nuts 500g
+@ITEM=9980=Dried Kooni Large
+@ITEM=4054=Cannellini Beans 1Kg
+@ITEM=9981=Dried Mora 250g
+@ITEM=4055=Mung Beans 1kg
+@ITEM=9986=Milk Toffee 200g
+@ITEM=4056=Apple Rings 500g
+@ITEM=9987=Icing Gem 200g
+@ITEM=4057=Turmeric Powder100g
+@ITEM=9984=Polos Ambula 675g
+@ITEM=4058=Kithul Trecle Dera750ml
+@ITEM=9985=red Split lentils 5kg
+@ITEM=4048=Harischandra special Noodles
+@ITEM=9979=Dried Kooni Small 250g
+@ITEM=4049=Peanuts in shell (Roasted) 300g
+@ITEM=9977=Dawaat Traditional rice 5kg
+@ITEM=9978=Dried Hurulu 250g
+@ITEM=4062=Fish curry Mix La
+@ITEM=9993=Florentine
+@ITEM=4063=Lite red raw Samba 5kg
+@ITEM=9994=Tropicana
+@ITEM=6001=Continental Rusk 230g
+@ITEM=4064=chest Nuts
+@ITEM=9991=CIC Red Lit Basmathi 5kg
+@ITEM=6000=Chocolate Biscuit 200g
+@ITEM=4065=Borlotti Beans 500g
+@ITEM=9992=MD Coconut Vinegar 350ml
+@ITEM=6003=Egg pasta large 250g
+@ITEM=4066=Raw Chick Peas 500g
+@ITEM=9997=Chocolate Almond Bread
+@ITEM=4067=Apple Jonathan
+@ITEM=6002=Cinnamon 15g
+@ITEM=9998=Chilli Powder Unr 200g
+@ITEM=6005=Continental Grissini 350g
+@ITEM=9995=Raspberry Petite
+@ITEM=4068=Low cholesterol Mox500g
+@ITEM=6004=Egg pasta medium 250g
+@ITEM=4069=Cashews Salted 250g
+@ITEM=9996=Almond Bread
+@ITEM=9990=MD chilli Paste 200g
+@ITEM=4060=Mix Nuts 375g
+@ITEM=4061=Pepitas
+@ITEM=4059=Coconut Vinigar 750ml
+@ITEM=9988=Red Raw Rice 1kg CIC
+@ITEM=9989=Muthu Samba 5kg CIC
+@ITEM=4073=Peanuts Salted 500g
+@ITEM=4074=Rice Crackers Chilli 140g
+@ITEM=6012=Olive Oil Rusk 350g
+@ITEM=4075=Rice Crackers BBQ140g
+@ITEM=6011=Sweetloaf
+@ITEM=4076=Walnuts Natural 350g
+@ITEM=6014=Melomakarona 250g
+@ITEM=4077=Coriander seed200g kan
+@ITEM=6013=Mahlepi Ground 15g
+@ITEM=4078=Clove 50g Kandyan
+@ITEM=6016=Trahana Sweet 500g
+@ITEM=4079=Sunflower Kernels 250g
+@ITEM=6015=Dry East 125g
+@ITEM=4070=Rice Crackers 350g
+@ITEM=4071=Pistachios 500g
+@ITEM=4072=Sunflower Kernels 500g
+@ITEM=6007=vanila powder 15g
+@ITEM=6006=Vanila Twists 250g
+@ITEM=6009=Tsoureki Large
+@ITEM=6008=Tsoureki Small 450g
+@ITEM=6021=Wholemeal Rusk 230g
+@ITEM=6020=Plain Flour 5kg
+@ITEM=6023=Mini Toasts Wholemeal 100g
+@ITEM=6022=Trahanas Sour 500g
+@ITEM=6025=Mini Toasts Original Recipe 100g
+@ITEM=6024=Mini Toasts olive oil 100g
+@ITEM=6027=Olive Oil 1Lt Bal
+@ITEM=6026=Olive oil 500ml bal
+@ITEM=4080=Walnuts in shell
+@ITEM=6018=Mastiha 15g
+@ITEM=6017=Sesame Biscota 250g
+@ITEM=6019=Almond Cresent 250g
+@ITEM=9300=Rancrisp Devilled cashews 100g
+@ITEM=9301=MD Tamarind Paste
+@ITEM=9304=MD Pineapple Cordial
+@ITEM=9305=MD Green Chilli Sauce
+@ITEM=9302= Tapioca Chip 300g
+@ITEM=9303=MD Mango Nector 250ml
+@ITEM=9311=MDK Thosa Mix 400g
+@ITEM=9312=MD Maldive Fish 100g
+@ITEM=9310=MD Kithul Treacle 750ml
+@ITEM=9315=MD Bread Fruit in Brine
+@ITEM=9316=Lotus in Brine Arali
+@ITEM=9313=Black pepper Whole100g
+@ITEM=9314=Fennel Powder 100g
+@ITEM=9308=MD Brinjal Curry
+@ITEM=9309=MD Coconut Treacle
+@ITEM=9306=MD Chilli & Garlic Sauce
+@ITEM=9307=MD Fresh Chilli & Vinegar
+@ITEM=9322=Tea Jack Mellum in Brine
+@ITEM=9323=Tea Dried Sprats 250g
+@ITEM=9320= Rstd White Rice Flour 1kg
+@ITEM=9321=Tea Jack Madulu in Brine
+@ITEM=9326=MD Woodapple Jam 785g
+@ITEM=9327=Hot Tapioca Chips 300g
+@ITEM=9324=Tiger Brand Basmathi5kg
+@ITEM=9325=Passion Fruit Basil seed Drink
+@ITEM=9319=MDK Red Sting Hopper Flour 700g
+@ITEM=9317=Kist Pineapple jam 300g
+@ITEM=9318=Cinnamon Powder 250g
+@ITEM=8002=Cashews Salted375g
+@ITEM=9333=Fried onion & Maldive fish sambol
+@ITEM=8003=Coriender Powder 200g
+@ITEM=9334=Faluda mix Motha 250g
+@ITEM=8000=Almonds Natural 500g
+@ITEM=9331=Penne Rigati No.18
+@ITEM=8001=Almonds Roasted 375g
+@ITEM=9332=Pineapple Diced 500g
+@ITEM=8006=Pitted Dates 500g
+@ITEM=9337=Soya Meet Prawn 90g
+@ITEM=8007=Atta 5kg Dia
+@ITEM=9338=Thala aluwa 400g
+@ITEM=8004=Raisins 500g
+@ITEM=9335=Fried Keeramin
+@ITEM=8005=Sulthana 500g
+@ITEM=9336=Soya Meat chicken
+@ITEM=9330=Pennette No.59
+@ITEM=9328=Passata 6 for $8
+@ITEM=9329=Colavita Olive Oil 500ml
+@ITEM=8013=Pecan Kernels 100g
+@ITEM=9102=Sanemo Chilli 215g
+@ITEM=9344=Chick Peas 1kg Pattu
+@ITEM=8014=Pretzel snack 250g
+@ITEM=9103=Spaghetti No.4
+@ITEM=9345=Red split Lentils 1kg Pattu
+@ITEM=8011=BBQ fride rice cracker
+@ITEM=9100=Sanremo eggnoodless 1kg
+@ITEM=9342=Chinese chilli paste 300g
+@ITEM=8012=Kist Chilli Paste325g
+@ITEM=9101=Tomato & Basil Sauce
+@ITEM=9343=Basmathi 5kg
+@ITEM=8017=Brown Rice1kg
+@ITEM=9106=Black Beans 500g
+@ITEM=9107=Broad Beans 500g
+@ITEM=8018=Chick Peas R & S
+@ITEM=9349=Mark down Bag ***
+@ITEM=8015=Peanuts R & Salted 500g
+@ITEM=9104=Adzuki Beans 500g
+@ITEM=9346=Mung Split 1kg pattu
+@ITEM=8016=Pitted Prunes 500g
+@ITEM=9105=Blackeye Beans 500g
+@ITEM=9347=March Mallows200g uswatte
+@ITEM=9340=cous cous Wholemeal 450g
+@ITEM=8010=Chili Rice Snak
+@ITEM=9341=Seeds & Grains Rice crackers
+@ITEM=8008=Pistachios Salted 350g
+@ITEM=9339=Rulan aluwa 400g
+@ITEM=8009=Pol Sambol
+@ITEM=9113=Red Lentils Whole 500g
+@ITEM=9355=Sesame Balls 200g Araliya
+@ITEM=9114=Red Lentils Whole 500g (skin off)
+@ITEM=9356=March Mallows100g uswatte
+@ITEM=9111=Mung Beans 500g
+@ITEM=9353=Jujubes 100g Uswatte
+@ITEM=9112=Basmathi Rice Golden Sella 1kg
+@ITEM=9354=Fried Bread fruit chips 200g
+@ITEM=9117=Green Lentils 500g
+@ITEM=9359=Maggi coconut milk powder 125g
+@ITEM=9118=Chia Seeds 250g
+@ITEM=9115=Yellow Split Peas 500g
+@ITEM=9357=MD kithul Treacle 350ml
+@ITEM=9116=Dark Red Kidney 500g
+@ITEM=9358=MD Coconut Treacle 350ml
+@ITEM=9351=Maggi devilled kottu
+@ITEM=8020=Org.coconut milk 300g
+@ITEM=9110=Pumpkin Seeds Kernals 500g
+@ITEM=9352=Nestomalt 400g
+@ITEM=9350=Ambarella Chutney dera
+@ITEM=9108=Black Sesame Seeds 500g
+@ITEM=8019=Coconut Millk powder 1kg
+@ITEM=9109=Sesame Seeds 500g
+@ITEM=9124=Great Northern Beans 500g
+@ITEM=9366=MD Tomato Ketchup
+@ITEM=9125=Corn Flour White 500g
+@ITEM=9367=Cashew Nuts 200g
+@ITEM=9122=Soya Beans 500g
+@ITEM=9364=MD Extra hot chilli sauce
+@ITEM=9123=Linseed Whole 500g
+@ITEM=9365=MD sweet chilli sauce
+@ITEM=9128=Self Raising Flour 1kg
+@ITEM=9129=Special White Flour 1kg
+@ITEM=9126=Turkish White Fine Burgul 500g
+@ITEM=9368=Cashew Nuts hot & Spicy 200g
+@ITEM=9127=Wholemeal Flour 1kg
+@ITEM=9369=VSS Virgin Coconut oil 500g
+@ITEM=9120=Chickpeas Large 500g
+@ITEM=9362=MD BBQ sauce 400ml
+@ITEM=9121=Green Split Peas 500g
+@ITEM=9363=MD Tomato sauce
+@ITEM=9360=fried bread chips sweet 200g
+@ITEM=9361=Idly rice 1kg
+@ITEM=9119=Vindaloo Masala 50g
+@ITEM=9135=Semolina Fine 500g
+@ITEM=9377=Fine Sev 300g
+@ITEM=9136=Polenta Fine 500g
+@ITEM=9378=Spicy Dhal300g
+@ITEM=9133=Red Lentils 500g
+@ITEM=9375=Chilli Cashew 200g
+@ITEM=9134=Semolina Coarse 500g
+@ITEM=9376=Extra Hot Bhuja 300g
+@ITEM=9139=Gourmet Salt Crystals 1kg
+@ITEM=9137=White Sugar 1kg
+@ITEM=9379=Hot Party Mix
+@ITEM=9138=Fine Salt 1kg
+@ITEM=9370=Crystallized Ginger 250g
+@ITEM=9131=Barlotti Beans 500g
+@ITEM=9373=Spicy Peanut
+@ITEM=9132=Date Crown Lulu 500g
+@ITEM=9374=Chilli Checkpes 300g
+@ITEM=9371=Coconut Shreded 500g
+@ITEM=9130=Chikpea Double Roasted 400g
+@ITEM=9372=Bombay Mix 300g
+@ITEM=9146=Roasted Peanut in Shell 370g
+@ITEM=9147=Walnut Kernels LHP 500g
+@ITEM=9389=Karela Tea
+@ITEM=9144=Virgin Olive Oil 500g
+@ITEM=9386=Hot Murukku300g
+@ITEM=9145=5kg brown Onion
+@ITEM=9387=Masala Chai Tea
+@ITEM=9148=Galangal
+@ITEM=9149=SeeniSambol 350g derana
+@ITEM=9380=Lanka Mix300g
+@ITEM=9381=Hot Sev
+@ITEM=9142=Funugreek seed 50g
+@ITEM=9384=Spicy Greenpeas 300g
+@ITEM=9385=Murukku 300g
+@ITEM=9140=Fennel Seed 50g
+@ITEM=9382=Lemon 1kg
+@ITEM=9141=Baking Powder 50g
+@ITEM=9383=Mix Bhuja 300g
+@ITEM=9157=Cumin Seed 100g
+@ITEM=9158=Fenugreek Seeds 100g
+@ITEM=9155=Sela Basmati 5kg
+@ITEM=9156=Mustard Seed 100g
+@ITEM=9159=Coriander Seeds 100g
+@ITEM=9150=Lime Pickle 350g
+@ITEM=9390=Green Tea Mint
+@ITEM=9153=Devaaya 5kg
+@ITEM=9154=Seeni Sambol Kist
+@ITEM=9151=Masoor Dhal 1Kg
+@ITEM=9152=Sona Masoori 5kg
+@ITEM=9168=Sprite 390ml
+@ITEM=9169=Lift 390ml
+@ITEM=9166=Coca Cola 390ml
+@ITEM=9167=Fanta 390ml
+@ITEM=9160=Ghee / QBB 400g
+@ITEM=9161=Channa Dhall 1Kg
+@ITEM=9164=Coca Cola Zero 375ml
+@ITEM=9165=Coca Cola 375ml
+@ITEM=9162=Sprite 375ml can
+@ITEM=9163=Fanta 375ml can
+@ITEM=9179=Dessicated coconut 500g
+@ITEM=9177=Juicy Peach Black Tea 465ml
+@ITEM=9178=Select Basmathi 5kg daawat
+@ITEM=9171=Spring Water 600ml
+@ITEM=9172=Orange Juice 350ml
+@ITEM=9170=Coca Cola Zero 390ml
+@ITEM=9175=Zesty Lemon Black Tea 465ml
+@ITEM=9176= Hibiscus Tea
+@ITEM=9173=Apple Juice 350ml
+@ITEM=9174=Apple & Blackcurrant Juice 350ml
+@ITEM=1206=Italian Artichoke Purple
+@ITEM=1205=Thai Green Chilli
+@ITEM=1204=Amami Papadam
+@ITEM=1203=Beetroot bunch
+@ITEM=1202=Jerusalem Artichokes
+@ITEM=1201=Mushroom Brown
+@ITEM=1200=beetroot Golden Delicious
+@ITEM=1209= Artichoke 2 For 3
+@ITEM=1208=Artichoke Purple
+@ITEM=1207= Rape
