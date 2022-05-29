@@ -1,2 +1,2 @@
 # eclat
-Python implementation of Eclat algorithm for association rule mining.
+Python implementation of ECLAT algorithm for association rule mining.
