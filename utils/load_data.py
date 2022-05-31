@@ -1,5 +1,4 @@
 import os
-import csv
 import pathlib
 import pandas as pd
 from enum import Enum
@@ -13,23 +12,38 @@ class Dataset(Enum):
     Liquor = 1
 
 
-def load_dataframe(filename):
+def load_dataset(dataset: Dataset):
+    if dataset == Dataset.Fruithut:
+        transactions = load_dataframe('fruithut/fruithut_original.txt')
+        taxonomy = load_dataframe('fruithut/taxonomy.txt', is_taxonomy=True)
+    elif dataset == Dataset.Liquor:
+        transactions = load_dataframe('liquor/liquor_11frequent.txt')
+        taxonomy = load_dataframe('liquor/taxonomy.txt', is_taxonomy=True)
+    else:
+        raise ValueError(f'Dataset "{dataset}" not found.')
+
+    return transactions, taxonomy
+
+
+def load_dataframe(filename, is_taxonomy=False):
     filepath = os.path.join(os.path.dirname(__file__), data_dir, filename)
-    dataframe = pd.read_csv(filepath, header=None)
+    if is_taxonomy:
+        names = ['child', 'parent']
+        separator = ','
+    else:
+        names = range(find_longest(filepath))
+        separator = ' '
+    dataframe = pd.read_csv(filepath, sep=separator, header=None, names=names)
     return dataframe
 
 
-def load_list(filename):
-    filepath = os.path.join(os.path.dirname(__file__), data_dir, filename)
-    all_items = []
-    transactions = []
+def find_longest(filepath):
+    max_len = 0
     with open(filepath, newline='') as f:
         for line in f:
             transaction = line.split()
-            all_items.extend(transaction)
-            transactions.append(transaction)
-    unique_items = list(set(all_items))
-    return transactions, unique_items
+            max_len = max(max_len, len(transaction))
+    return max_len
 
 
 def display_files():
@@ -37,16 +51,3 @@ def display_files():
         filenames = filter(lambda fname: fname.endswith('.txt'), filenames)
         for filename in filenames:
             print(os.path.join(dirname, filename))
-
-
-def load_dataset(dataset: Dataset):
-    if dataset == Dataset(0):
-        transactions = load_list('fruithut/fruithut_original.txt')
-        taxonomy = load_dataframe('fruithut/taxonomy.txt')
-    elif dataset == Dataset(1):
-        transactions = load_list('liquor/liquor_11frequent.txt')
-        taxonomy = load_dataframe('liquor/taxonomy.txt')
-    else:
-        transactions, taxonomy = None, None
-
-    return transactions, taxonomy
