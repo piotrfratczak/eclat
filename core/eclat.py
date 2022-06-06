@@ -3,7 +3,7 @@ import pandas as pd
 from itertools import combinations
 
 from core.AssociationRule import AssociationRule
-from utils.load_data import load_dataset, Dataset
+from utils.data_io import load_dataset, Dataset
 
 
 def get_dummies(transactions: pd.DataFrame) -> pd.DataFrame:
@@ -137,11 +137,11 @@ def hierarchy_rule(frequent: list[list[tuple]], tax_dict: dict, sup_dict: dict) 
     return rules
 
 
-def eclat(min_sup: int = 1, min_conf: float = 0.5, min_len: int = 1, max_len: int = None, h_rule: bool = True) ->\
-        list[AssociationRule]:
+def eclat(dataset: int = 0, min_sup: int = 1, min_conf: float = 0.5, min_len: int = 1, max_len: int = None,
+          h_rule: bool = True) -> list[AssociationRule]:
     start_time = time.time()
 
-    transactions, taxonomy = load_dataset(Dataset(1))
+    transactions, taxonomy = load_dataset(Dataset(dataset))
     data_time = time.time()
     print(f'Dataset loaded - number of transactions: {len(transactions.index)}.'
           f'\nCompleted in {data_time-start_time:.4f} sec.')

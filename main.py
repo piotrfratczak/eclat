@@ -1,10 +1,10 @@
 from core.eclat import eclat
+from utils.data_io import save_rules
 
 
 def main() -> None:
     rules = eclat()
-    for rule in rules:
-        print(rule)
+    save_rules(rules)
 
 
 if __name__ == "__main__":

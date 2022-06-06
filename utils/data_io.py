@@ -3,8 +3,11 @@ import pathlib
 import pandas as pd
 from enum import Enum
 
+from core.AssociationRule import AssociationRule
+
 
 data_dir = os.path.join(pathlib.Path(__file__).parent.parent, 'data')
+output_dir = os.path.join(pathlib.Path(__file__).parent.parent, 'output')
 
 
 class Dataset(Enum):
@@ -55,3 +58,11 @@ def display_files() -> None:
         filenames = filter(lambda fname: fname.endswith('.txt'), filenames)
         for filename in filenames:
             print(os.path.join(dirname, filename))
+
+
+def save_rules(rules: list[AssociationRule], filename: str = 'results.csv'):
+    filepath = os.path.join(os.path.dirname(__file__), output_dir, filename)
+    with open(filepath, 'w') as f:
+        f.write(';'.join(['predecessor', 'successor', 'support', 'confidence']) + '\n')
+        for rule in rules:
+            f.writelines(rule.csv_format())
