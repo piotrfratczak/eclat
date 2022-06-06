@@ -1,13 +1,13 @@
 # eclat
 Python implementation of ECLAT algorithm for association rule mining.
 
-This implementation mines rules ![equation](https://latex.codecogs.com/svg.image?a&space;\to&space;Ah), such that
-![equation](https://latex.codecogs.com/svg.image?a) is an element in a transaction and
-![equation](https://latex.codecogs.com/svg.image?Ah) is an element in hierarchy that a belongs to.
+This implementation mines rules ![equation](https://latex.codecogs.com/svg.image?{\color{Emerald}a&space;\to&space;Ah}), such that
+![equation](https://latex.codecogs.com/svg.image?{\color{Emerald}a}) is an element in a transaction and
+![equation](https://latex.codecogs.com/svg.image?{\color{Emerald}Ah}) is an element in hierarchy that a belongs to.
 This kind of rule is mined on the condition that there are transactions
-![equation](https://latex.codecogs.com/svg.image?t&space;:&space;t&space;\supset&space;(a,b),&space;\;&space;&space;a&space;\in&space;E(Ah),&space;\;&space;&space;b&space;\in&space;E(Ah))
-, where ![equation](https://latex.codecogs.com/svg.image?E(y)) is an itemset belonging to an element in hierarchy
-![equation](https://latex.codecogs.com/svg.image?y).
+![equation](https://latex.codecogs.com/svg.image?{\color{Emerald}t&space;:&space;t&space;\supset&space;(a,b),&space;\;&space;&space;a&space;\in&space;E(Ah),&space;\;&space;&space;b&space;\in&space;E(Ah)})
+, where ![equation](https://latex.codecogs.com/svg.image?{\color{Emerald}E(y)}) is an itemset belonging to an element in hierarchy
+![equation](https://latex.codecogs.com/svg.image?{\color{Emerald}y}).
 
 ## Setup
 ```shell
