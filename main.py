@@ -1,8 +1,8 @@
-from eclat.eclat import run_eclat
+from core.eclat import eclat
 
 
-def main():
-    run_eclat()
+def main() -> None:
+    rules, supports = eclat()
 
 
 if __name__ == "__main__":
