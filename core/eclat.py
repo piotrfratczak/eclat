@@ -1,3 +1,4 @@
+import time
 import pandas as pd
 from itertools import combinations
 
@@ -55,15 +56,13 @@ def frequent_itemsets(transactions: pd.DataFrame, min_sup: int) -> tuple[list[li
     return frequent, sup_dict
 
 
-def rule_gen(frequent: list[list[tuple]], sup_dict: dict, min_sup: int, min_conf: float, min_len: int,
-             max_len: int = None) -> list[AssociationRule]:
+def rule_gen(frequent: list[list[tuple]], sup_dict: dict, min_conf: float, min_len: int, max_len: int = None) ->\
+        list[AssociationRule]:
     if min_conf < 0.0 or min_conf > 1.0:
         raise ValueError(f'Parameter min_conf should be in [0, 1] but {min_conf} was passed.')
     if max_len is not None and min_len > max_len:
         raise ValueError(f'Parameter min_len should be less than max_len but min_len: {min_len} and max_len: {max_len}')
     if min_len > len(frequent):
-        return []
-    if min_sup > sup_dict[frequent[-1][-1]]:
         return []
     if max_len is None:
         max_len = len(frequent)
@@ -86,12 +85,84 @@ def rule_gen(frequent: list[list[tuple]], sup_dict: dict, min_sup: int, min_conf
     return rules
 
 
-def eclat(min_sup: int = 1, min_conf: float = 0.5, min_len: int = 2, max_len: int = None) -> list[AssociationRule]:
-    transactions, taxonomy = load_dataset(Dataset(0))
-    print('Dataset loaded.')
-    frequent, sup_dict = frequent_itemsets(transactions, min_sup)
-    print('Frequent itemsets mined.')
-    rules = rule_gen(frequent, sup_dict, min_sup, min_conf, min_len, max_len)
-    print('Association rules mined.')
+def find_hierarchy(tax_dict: dict, ancestor_dict: dict, item: int) -> tuple[set, dict]:
+    """
+    Find all ancestors of item in hierarchy.
+    """
+    if item in ancestor_dict:
+        return ancestor_dict[item], ancestor_dict
 
+    ancestors = set()
+    parent = item
+    while parent in tax_dict:
+        parent = tax_dict[parent]
+        ancestors.add(parent)
+    ancestor_dict.update({item: ancestors})
+    return ancestors, ancestor_dict
+
+
+def hierarchy_rule(frequent: list[list[tuple]], tax_dict: dict, sup_dict: dict) -> list[AssociationRule]:
+    """
+    Mine special rules based on taxonomy.
+
+    Generate special rules a -> Ah such that a is an element in a transaction
+    and Ah is an element in hierarchy that a belongs to. If there are transactions
+    {a, b} where a and b belong to Ah.
+
+    :param frequent: List L of lists li of tuples that represent itemsets sorted by their length
+        (the first element of list L - l1 - stores itemsets of length 1,
+        the next element of L - l2 - stores itemsets of length 2 and so on).
+    :param tax_dict: Hierarchy dictionary of elements in frequent {child: parent}.
+    :param sup_dict: Dictionary of supports for each itemset.
+    :return: List of the special rules described above.
+    """
+    if len(frequent) < 2:
+        return []
+    rules = set()
+    ancestor_dict = {}
+    two_itemsets = frequent[1]
+    for itemset in two_itemsets:
+        item1 = itemset[0]
+        item2 = itemset[1]
+        ancestors1, ancestor_dict = find_hierarchy(tax_dict, ancestor_dict, item1)
+        ancestors2, ancestor_dict = find_hierarchy(tax_dict, ancestor_dict, item2)
+        common = ancestors1.intersection(ancestors2)
+        for h_item in common:
+            ar1 = AssociationRule((item1,), (h_item,), sup_dict[(item1,)], 1.0)
+            rules.add(ar1)
+            ar2 = AssociationRule((item2,), (h_item,), sup_dict[(item2,)], 1.0)
+            rules.add(ar2)
+
+    rules = list(rules)
+    return rules
+
+
+def eclat(min_sup: int = 1, min_conf: float = 0.5, min_len: int = 1, max_len: int = None, h_rule: bool = True) ->\
+        list[AssociationRule]:
+    start_time = time.time()
+
+    transactions, taxonomy = load_dataset(Dataset(1))
+    data_time = time.time()
+    print(f'Dataset loaded - number of transactions: {len(transactions.index)}.'
+          f'\nCompleted in {data_time-start_time:.4f} sec.')
+
+    frequent, sup_dict = frequent_itemsets(transactions, min_sup)
+    frequent_time = time.time()
+    print(f'\nFrequent itemsets mined - number of frequent itemsets: {len(sup_dict.keys())}.'
+          f'\nCompleted in {frequent_time-data_time:.4f} sec.')
+
+    rules = rule_gen(frequent, sup_dict, min_conf, min_len, max_len)
+    rules_time = time.time()
+    print(f'\nAssociation rules mined - number of frequent rules: {len(rules)}.'
+          f'\nCompleted in {rules_time-frequent_time:.4f} sec.')
+
+    if h_rule:
+        tax_dict = taxonomy.set_index('child')['parent'].to_dict()
+        h_rules = hierarchy_rule(frequent, tax_dict, sup_dict)
+        rules.extend(h_rules)
+        hierarchy_time = time.time()
+        print(f'\nHierarchy rules mined - total number of rules: {len(rules)}.'
+              f'\nCompleted in {hierarchy_time-rules_time} sec.')
+
+    print(f'\nTotal execution time: {time.time()-start_time:.4f} sec.')
     return rules

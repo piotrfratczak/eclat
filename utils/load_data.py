@@ -16,7 +16,7 @@ class Dataset(Enum):
 def load_dataset(dataset: Dataset) -> tuple[pd.DataFrame, pd.DataFrame]:
     if dataset == Dataset.Debug:
         transactions = load_dataframe('debug/debug.txt')
-        taxonomy = load_dataframe('debug/taxonomy.txt')
+        taxonomy = load_dataframe('debug/taxonomy.txt', is_taxonomy=True)
     elif dataset == Dataset.Fruithut:
         transactions = load_dataframe('fruithut/fruithut_original.txt')
         taxonomy = load_dataframe('fruithut/taxonomy.txt', is_taxonomy=True)
