@@ -1,7 +1,8 @@
 import pandas as pd
+from itertools import combinations
 
-from AssociationRule import AssociationRule
-from utils.load_data import display_files, load_dataset, Dataset
+from core.AssociationRule import AssociationRule
+from utils.load_data import load_dataset, Dataset
 
 
 def get_dummies(transactions: pd.DataFrame) -> pd.DataFrame:
@@ -31,8 +32,7 @@ def frequent_itemsets(transactions: pd.DataFrame, min_sup: int) -> tuple[list[li
         return [], {}
 
     frequent = [row]
-    for r in range(len(row)):
-        print(r)
+    for _ in range(len(row)):
         prev_row = row
         row = []
         for i1, itemset1 in enumerate(prev_row):
@@ -56,30 +56,42 @@ def frequent_itemsets(transactions: pd.DataFrame, min_sup: int) -> tuple[list[li
 
 
 def rule_gen(frequent: list[list[tuple]], sup_dict: dict, min_sup: int, min_conf: float, min_len: int,
-             max_len: int = None) -> tuple[list[AssociationRule], list]:
+             max_len: int = None) -> list[AssociationRule]:
     if min_conf < 0.0 or min_conf > 1.0:
         raise ValueError(f'Parameter min_conf should be in [0, 1] but {min_conf} was passed.')
     if max_len is not None and min_len > max_len:
         raise ValueError(f'Parameter min_len should be less than max_len but min_len: {min_len} and max_len: {max_len}')
-    if min_len > len(frequent[-1]):
-        return [], []
+    if min_len > len(frequent):
+        return []
     if min_sup > sup_dict[frequent[-1][-1]]:
-        return [], []
+        return []
     if max_len is None:
         max_len = len(frequent)
 
+    rules = []
     for length in range(min_len-1, max_len):
-        itemsets = frequent[length]
+        for itemset in frequent[length]:
+            for suc_len in range(1, len(itemset)):
+                for suc in combinations(itemset, suc_len):
+                    pred = tuple(sorted(set(itemset).difference(suc)))
+                    if pred not in sup_dict or suc not in sup_dict:
+                        continue
+                    sup = sup_dict[itemset]
+                    pred_sup = sup_dict[pred]
+                    conf = sup/pred_sup
+                    if conf <= min_conf:
+                        continue
+                    ar = AssociationRule(pred, suc, sup, conf)
+                    rules.append(ar)
+    return rules
 
-    return [], [2]
 
-
-def eclat(min_sup: int = 1, min_conf: float = 0.5, min_len: int = 2, max_len: int = None) -> tuple[list, list]:
+def eclat(min_sup: int = 1, min_conf: float = 0.5, min_len: int = 2, max_len: int = None) -> list[AssociationRule]:
     transactions, taxonomy = load_dataset(Dataset(0))
     print('Dataset loaded.')
     frequent, sup_dict = frequent_itemsets(transactions, min_sup)
     print('Frequent itemsets mined.')
-    rules, supports = rule_gen(frequent, sup_dict, min_sup, min_conf, min_len, max_len)
+    rules = rule_gen(frequent, sup_dict, min_sup, min_conf, min_len, max_len)
     print('Association rules mined.')
 
-    return rules, supports
+    return rules
