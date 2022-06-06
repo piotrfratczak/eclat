@@ -8,12 +8,16 @@ data_dir = os.path.join(pathlib.Path(__file__).parent.parent, 'data')
 
 
 class Dataset(Enum):
-    Fruithut = 0
-    Liquor = 1
+    Debug = 0
+    Fruithut = 1
+    Liquor = 2
 
 
-def load_dataset(dataset: Dataset):
-    if dataset == Dataset.Fruithut:
+def load_dataset(dataset: Dataset) -> tuple[pd.DataFrame, pd.DataFrame]:
+    if dataset == Dataset.Debug:
+        transactions = load_dataframe('debug/debug.txt')
+        taxonomy = load_dataframe('debug/taxonomy.txt')
+    elif dataset == Dataset.Fruithut:
         transactions = load_dataframe('fruithut/fruithut_original.txt')
         taxonomy = load_dataframe('fruithut/taxonomy.txt', is_taxonomy=True)
     elif dataset == Dataset.Liquor:
@@ -25,7 +29,7 @@ def load_dataset(dataset: Dataset):
     return transactions, taxonomy
 
 
-def load_dataframe(filename, is_taxonomy=False):
+def load_dataframe(filename: str, is_taxonomy: bool = False) -> pd.DataFrame:
     filepath = os.path.join(os.path.dirname(__file__), data_dir, filename)
     if is_taxonomy:
         names = ['child', 'parent']
@@ -37,7 +41,7 @@ def load_dataframe(filename, is_taxonomy=False):
     return dataframe
 
 
-def find_longest(filepath):
+def find_longest(filepath: str) -> int:
     max_len = 0
     with open(filepath, newline='') as f:
         for line in f:
@@ -46,7 +50,7 @@ def find_longest(filepath):
     return max_len
 
 
-def display_files():
+def display_files() -> None:
     for dirname, _, filenames in os.walk(data_dir):
         filenames = filter(lambda fname: fname.endswith('.txt'), filenames)
         for filename in filenames:
