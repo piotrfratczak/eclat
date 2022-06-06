@@ -3,7 +3,6 @@ import pandas as pd
 from itertools import combinations
 
 from core.AssociationRule import AssociationRule
-from utils.data_io import load_dataset, Dataset
 
 
 def get_dummies(transactions: pd.DataFrame) -> pd.DataFrame:
@@ -137,32 +136,27 @@ def hierarchy_rule(frequent: list[list[tuple]], tax_dict: dict, sup_dict: dict) 
     return rules
 
 
-def eclat(dataset: int = 0, min_sup: int = 1, min_conf: float = 0.5, min_len: int = 1, max_len: int = None,
-          h_rule: bool = True) -> list[AssociationRule]:
+def eclat(transactions: pd.DataFrame, taxonomy: pd.DataFrame = None, min_sup: int = 1, min_conf: float = 0.5,
+          min_len: int = 1, max_len: int = None) -> list[AssociationRule]:
+    print('\nStart ECLAT.')
     start_time = time.time()
-
-    transactions, taxonomy = load_dataset(Dataset(dataset))
-    data_time = time.time()
-    print(f'Dataset loaded - number of transactions: {len(transactions.index)}.'
-          f'\nCompleted in {data_time-start_time:.4f} sec.')
 
     frequent, sup_dict = frequent_itemsets(transactions, min_sup)
     frequent_time = time.time()
     print(f'\nFrequent itemsets mined - number of frequent itemsets: {len(sup_dict.keys())}.'
-          f'\nCompleted in {frequent_time-data_time:.4f} sec.')
+          f'\nCompleted in {frequent_time-start_time:.4f} sec.')
 
     rules = rule_gen(frequent, sup_dict, min_conf, min_len, max_len)
     rules_time = time.time()
     print(f'\nAssociation rules mined - number of frequent rules: {len(rules)}.'
           f'\nCompleted in {rules_time-frequent_time:.4f} sec.')
 
-    if h_rule:
+    if taxonomy is not None:
         tax_dict = taxonomy.set_index('child')['parent'].to_dict()
         h_rules = hierarchy_rule(frequent, tax_dict, sup_dict)
         rules.extend(h_rules)
         hierarchy_time = time.time()
         print(f'\nHierarchy rules mined - total number of rules: {len(rules)}.'
-              f'\nCompleted in {hierarchy_time-rules_time} sec.')
+              f'\nCompleted in {hierarchy_time-rules_time:.4f} sec.')
 
-    print(f'\nTotal execution time: {time.time()-start_time:.4f} sec.')
     return rules

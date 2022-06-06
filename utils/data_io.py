@@ -1,4 +1,5 @@
 import os
+import time
 import pathlib
 import pandas as pd
 from enum import Enum
@@ -16,24 +17,35 @@ class Dataset(Enum):
     Liquor = 2
 
 
-def load_dataset(dataset: Dataset) -> tuple[pd.DataFrame, pd.DataFrame]:
+def load_predefined(dataset: Dataset) -> tuple[pd.DataFrame, pd.DataFrame]:
     if dataset == Dataset.Debug:
-        transactions = load_dataframe('debug/debug.txt')
-        taxonomy = load_dataframe('debug/taxonomy.txt', is_taxonomy=True)
+        filepath = os.path.join(data_dir, 'debug/debug.txt')
+        tax_filepath = os.path.join(data_dir, 'debug/taxonomy.txt')
     elif dataset == Dataset.Fruithut:
-        transactions = load_dataframe('fruithut/fruithut_original.txt')
-        taxonomy = load_dataframe('fruithut/taxonomy.txt', is_taxonomy=True)
+        filepath = os.path.join(data_dir, 'fruithut/fruithut_original.txt')
+        tax_filepath = os.path.join(data_dir, 'fruithut/taxonomy.txt')
     elif dataset == Dataset.Liquor:
-        transactions = load_dataframe('liquor/liquor_11frequent.txt')
-        taxonomy = load_dataframe('liquor/taxonomy.txt', is_taxonomy=True)
+        filepath = os.path.join(data_dir, 'liquor/liquor_11frequent.txt')
+        tax_filepath = os.path.join(data_dir, 'liquor/taxonomy.txt')
     else:
         raise ValueError(f'Dataset "{dataset}" not found.')
 
+    transactions, taxonomy = load_dataset(filepath, tax_filepath)
     return transactions, taxonomy
 
 
-def load_dataframe(filename: str, is_taxonomy: bool = False) -> pd.DataFrame:
-    filepath = os.path.join(os.path.dirname(__file__), data_dir, filename)
+def load_dataset(filepath: str, taxonomy_path: str = None) -> tuple[pd.DataFrame, pd.DataFrame]:
+    start_time = time.time()
+    transactions = load_dataframe(filepath)
+    taxonomy = None
+    if taxonomy_path:
+        taxonomy = load_dataframe(taxonomy_path, is_taxonomy=True)
+    print(f'\nDataset loaded - number of transactions: {len(transactions.index)}.'
+          f'\nCompleted in {time.time()-start_time:.4f} sec.')
+    return transactions, taxonomy
+
+
+def load_dataframe(filepath: str, is_taxonomy: bool = False) -> pd.DataFrame:
     if is_taxonomy:
         names = ['child', 'parent']
         separator = ','
