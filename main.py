@@ -7,7 +7,7 @@ from utils.data_io import Dataset, load_predefined, load_dataset, save_rules
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset', type=int, default='0')
+    parser.add_argument('--dataset', type=int, default=0)
     parser.add_argument('--data', type=str)
     parser.add_argument('--taxonomy', type=str)
     parser.add_argument('--min_sup', type=int, default=1)

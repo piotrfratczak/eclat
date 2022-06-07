@@ -52,6 +52,17 @@ Example of _taxonomy.txt_ file format:
 > 11,111  
 > 22,111
 
+#### ECLAT parameters
+An example of execution with ECLAT parametrization:
+```shell
+$ python main.py --min_sup=5 --min_conf=0.8 --min_len=3 --max_len=10
+```
+The options are:
+* _min_sup_ - minimum support of the base of mined rules (type=int, default=1),
+* _min_conf_ - minimum confidence of mined rules (type=float, default=0.5),
+* _min_len_ - minimum length of mined rules (type=int, default=1),
+* _max_len_ - maximum length of mined rules (type=int, default=None - not limited by default).
+
 ## Unit Tests
 To execute unit tests run the following command in the main directory:
 ```shell
