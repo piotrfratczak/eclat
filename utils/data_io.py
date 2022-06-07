@@ -12,14 +12,18 @@ output_dir = os.path.join(pathlib.Path(__file__).parent.parent, 'output')
 
 
 class Dataset(Enum):
+    Test = -1
     Debug = 0
     Fruithut = 1
     Liquor = 2
 
 
 def load_predefined(dataset: Dataset) -> tuple[pd.DataFrame, pd.DataFrame]:
-    if dataset == Dataset.Debug:
-        filepath = os.path.join(data_dir, 'debug/debug.txt')
+    if dataset == Dataset.Test:
+        filepath = os.path.join(data_dir, 'test/test.txt')
+        tax_filepath = os.path.join(data_dir, 'test/taxonomy.txt')
+    elif dataset == Dataset.Debug:
+        filepath = os.path.join(data_dir, 'debug/taxonomy.txt')
         tax_filepath = os.path.join(data_dir, 'debug/taxonomy.txt')
     elif dataset == Dataset.Fruithut:
         filepath = os.path.join(data_dir, 'fruithut/fruithut_original.txt')
@@ -72,9 +76,15 @@ def display_files() -> None:
             print(os.path.join(dirname, filename))
 
 
-def save_rules(rules: list[AssociationRule], filename: str = 'results.csv'):
-    filepath = os.path.join(os.path.dirname(__file__), output_dir, filename)
+def save_rules(rules: list[AssociationRule], filename: str = f'results_{time.strftime("%Y%m%d-%H%M%S")}.csv'):
+    filepath = os.path.join(output_dir, filename)
     with open(filepath, 'w') as f:
         f.write(';'.join(['predecessor', 'successor', 'support', 'confidence']) + '\n')
         for rule in rules:
             f.writelines(rule.csv_format())
+
+
+def save_test(result: pd.DataFrame, test_type: str):
+    filename = f'test_{test_type}_{time.strftime("%Y%m%d-%H%M%S")}.csv'
+    filepath = os.path.join(output_dir, filename)
+    result.to_csv(filepath)

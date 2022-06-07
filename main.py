@@ -10,7 +10,6 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument('--dataset', type=int, default='0')
     parser.add_argument('--data', type=str)
     parser.add_argument('--taxonomy', type=str)
-
     args = parser.parse_args()
     print(args)
     return args
